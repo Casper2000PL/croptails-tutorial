@@ -22,4 +22,9 @@ static func is_movement_input() -> bool:
 	else:
 		return true
 		
+static func use_tool() -> bool:
+	var use_tool_value: bool = Input.is_action_pressed("hit")
+	
+	return use_tool_value		
+		
 	
