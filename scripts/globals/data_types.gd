@@ -1,7 +1,7 @@
 class_name DataTypes
 
 enum Tools {
-	Node,
+	None,
 	AxeWood,
 	TillGround,
 	WaterCrops,
