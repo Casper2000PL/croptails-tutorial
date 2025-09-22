@@ -113,7 +113,7 @@ texture = ExtResource("1_0e3uf")
 [sub_resource type="TileSetScenesCollectionSource" id="TileSetScenesCollectionSource_7tasb"]
 scenes/1/scene = ExtResource("3_s4u7f")
 scenes/2/scene = ExtResource("4_06qnv")
-scenes/3/scene = ExtResource("4_7tasb")
+scenes/5/scene = ExtResource("4_7tasb")
 
 [resource]
 physics_layer_0/collision_layer = 1
