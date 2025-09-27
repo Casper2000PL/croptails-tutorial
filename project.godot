@@ -30,7 +30,8 @@ folder_colors={
 "res://Tilesets/": "yellow",
 "res://assets/": "orange",
 "res://scenes/": "green",
-"res://scripts/": "pink"
+"res://scripts/": "pink",
+"res://scripts/state_machine/": "orange"
 }
 
 [input]
