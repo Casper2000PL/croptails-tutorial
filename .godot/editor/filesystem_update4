@@ -1,8 +1,5 @@
-res://scenes/test/test_scene_objects_rocks.tscn
-res://scenes/objects/trees/tree_shake.gdshader
+res://scenes/test/test_scene_tilemap_layer_y_sort.tscn
+res://scenes/objects/shake.gdshader
 res://Tilesets/house_tile_set.tres
 res://Tilesets/game_tile_set.tres
-res://scenes/objects/rocks/rock.tscn
-res://scenes/objects/rocks/rock.gd
-res://scenes/objects/rocks/stone.tscn
-res://scenes/objects/trees/small_tree.tscn
+res://scenes/characters/player/player.tscn
